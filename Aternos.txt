@@ -1,0 +1,8 @@
+{
+
+
+                           "ip":"Mehtaj.aternos.me",
+                           "port":"57587",
+                           "name":"Bot"
+
+}
